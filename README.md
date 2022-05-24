@@ -16,9 +16,7 @@ A Web3 React Shop
 
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" width="40"> <img src="https://trufflesuite.com/img/ganache-logo-dark.svg" width="29"> <img src="https://raw.githubusercontent.com/MetaMask/metamask-mobile/main/logo.png">
-
-<img src="https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/logo.svg" width="30%">
+<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" width="40"> <img src="https://trufflesuite.com/img/ganache-logo-dark.svg" width="29"> <img src="https://raw.githubusercontent.com/MetaMask/metamask-mobile/main/logo.png"> <img src="https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/logo.svg" width="60%">
 
 ```bash
  👩‍💻 Language:   Solidity
