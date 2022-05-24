@@ -1,7 +1,6 @@
 import React, { useState, useMemo } from "react";
 import { WalletContext, DefaultWallet } from "./web3/WalletContex";
-import logo from "./logo.svg";
-import "./App.css";
+import "./styles/App.css";
 import ButtonAppBar from "./components/ButtonAppBar";
 
 function App() {
@@ -13,7 +12,7 @@ function App() {
       <div className="App">
         <ButtonAppBar />
         <main className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          
         </main>
       </div>
     </WalletContext.Provider>
