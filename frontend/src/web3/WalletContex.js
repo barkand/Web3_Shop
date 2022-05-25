@@ -11,7 +11,7 @@ export const DefaultWallet = {
     eth: 0,
     wei: 0,
   },
-  gasLimit: process.env.gasLimit,
+  gasLimit: process.env.REACT_APP_GAS_LIMIT,
 };
 
 export const WalletContext = createContext({

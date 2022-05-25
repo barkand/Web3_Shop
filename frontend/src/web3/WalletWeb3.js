@@ -17,7 +17,9 @@ async function FillWallet() {
   } else if (window.web3) {
     web3Provider = window.web3.currentProvider;
   } else {
-    web3Provider = new Web3.providers.HttpProvider(process.env.localBlockChain);
+    web3Provider = new Web3.providers.HttpProvider(
+      process.env.REACT_APP_LOCAL_BLOCKCHAIN
+    );
   }
   //library
   _wallet.library = new Web3(web3Provider);
